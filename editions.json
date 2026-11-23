@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "title": "VA Graphics Daily Dispatch — Monday, November 23, 2026",
+    "url": "daily/2026-11-23.html",
+    "headline": "COP31 ends without a fossil-fuel deal as AI stocks steady and Haryana mandis price button mushrooms at ₹200/kg",
+    "summary": "Global climate deadlock, AI model pricing and governance, India's Rabi fertilizer and FCI grain reserves, Kurukshetra weather, and peer-reviewed science.",
+    "featured": [
+      {
+        "headline": "AI & Global Markets: COP31 collapses, Gemini adds GIFs, and Sarvam prices 105B",
+        "summary": "The longest UN climate summit, COP31 in Antalya, collapsed without an agreement after EU and island nations rejected a draft text that omitted fossil fuels and finance commitments.",
+        "url": "daily/2026-11-23.html"
+      },
+      {
+        "headline": "Agriculture, Fertilizer, Grain Stocks & Button Mushroom Rates",
+        "summary": "Rabi fertilizer supplies remain above pro-rata demand across India and Haryana, central pool grain stocks stand at 817.62 lakh tonnes, and regulated Haryana mandis are trading white button mushrooms at ₹200–₹240/kg.",
+        "url": "daily/2026-11-23.html"
+      },
+      {
+        "headline": "Science & Medical Research (Science X Week 47)",
+        "summary": "Physicists transmitted 1 bit/minute through a brick wall by moving a 1.8-ton elevator counterweight tracked with a gravimeter.",
+        "url": "daily/2026-11-23.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-22",
+    "type": "weekly",
+    "title": "VA Graphics Weekly Dispatch — November 15–22, 2026",
+    "url": "weekly/2026-11-22.html",
+    "headline": "Anthropic's record IPO collided with Nvidia's leadership shock and a five-percent tech slide",
+    "summary": "Eight days of AI markets, open-weight models, scientific breakthroughs, and web engineering distilled into one scannable read.",
+    "featured": [
+      {
+        "headline": "Wall Street cheered Anthropic's debut, then sold the whole AI trade",
+        "summary": "Thursday's landmark listing of Anthropic on the Nasdaq briefly stole the spotlight.",
+        "url": "weekly/2026-11-22.html"
+      },
+      {
+        "headline": "Open-weight models surged while GPT-6.2 Astra drew mixed developer reviews",
+        "summary": "While public markets fretted over capital spending, labs shipped one of the densest weeks of model releases all year.",
+        "url": "weekly/2026-11-22.html"
+      },
+      {
+        "headline": "Quantum sensors, fusion thresholds, and self-powered medical implants led science",
+        "summary": "Across six days of peer-reviewed dispatches from Science X, breakthroughs clustered around precision control—steering room-temperature quantum spins, taming fusion plasma turbulence, and turning excess blood sugar into power for diabetes therapy.",
+        "url": "weekly/2026-11-22.html"
+      }
+    ]
+  }
+]
