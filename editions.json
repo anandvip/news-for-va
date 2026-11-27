@@ -1,5 +1,90 @@
 [
   {
+    "date": "2026-11-27",
+    "type": "daily",
+    "title": "VA Graphics Daily Dispatch — Friday, November 27, 2026",
+    "url": "daily/2026-11-27.html",
+    "headline": "Kurukshetra mandis hold button-mushroom modal near ₹160–200/kg while AI labs surface protein-design results and internal safety debates",
+    "summary": "Haryana agri-market rates, frontier AI developments from 24–26 November, and continuity from the local catalogue.",
+    "featured": [
+      {
+        "headline": "Agriculture & Button Mushroom Rates",
+        "summary": "Ladwa APMC modal around ₹20,000/qtl on 26 Nov; Thanesar lower. Average near ₹16,000/qtl across reporting Kurukshetra markets.",
+        "url": "daily/2026-11-27.html"
+      },
+      {
+        "headline": "AI & Technology",
+        "summary": "OpenAI reports GPT-6.2 protein designs showing lab binding; staff-level safety concerns at OpenAI and Anthropic.",
+        "url": "daily/2026-11-27.html"
+      },
+      {
+        "headline": "Local Continuity",
+        "summary": "New va-logo repo (SVG + transparent PNG) and ongoing mushroom-study pages on custom domains.",
+        "url": "daily/2026-11-27.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "type": "daily",
+    "title": "VA Graphics Daily Dispatch — Thursday, November 26, 2026",
+    "url": "daily/2026-11-26.html",
+    "headline": "Gap note — VA logo drop and mushroom field studies",
+    "summary": "No full curated dispatch. Relevant catalogue anchors until the 27 Nov resume.",
+    "featured": [
+      {
+        "headline": "va-logo",
+        "summary": "SVG and transparent PNG of the VA logo for web pages and single-file offline tools.",
+        "url": "daily/2026-11-26.html"
+      },
+      {
+        "headline": "Mushroom studies",
+        "summary": "Live at mushroom.vipulanand.in and solan.vipulanand.in.",
+        "url": "daily/2026-11-26.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "type": "daily",
+    "title": "VA Graphics Daily Dispatch — Wednesday, November 25, 2026",
+    "url": "daily/2026-11-25.html",
+    "headline": "Gap note — catalogue refresh and agri references",
+    "summary": "No full curated dispatch. Relevant catalogue anchors until the 27 Nov resume.",
+    "featured": [
+      {
+        "headline": "starter catalogue",
+        "summary": "GitHub catalogue and subdomains report, updated 26 Nov.",
+        "url": "daily/2026-11-25.html"
+      },
+      {
+        "headline": "va-logo and pharmacy-billing",
+        "summary": "New logo assets and offline pharmacy khata tool.",
+        "url": "daily/2026-11-25.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "type": "daily",
+    "title": "VA Graphics Daily Dispatch — Tuesday, November 24, 2026",
+    "url": "daily/2026-11-24.html",
+    "headline": "Gap note — local tools and agri references while dispatch paused",
+    "summary": "No full curated dispatch. Relevant catalogue anchors until the 27 Nov resume.",
+    "featured": [
+      {
+        "headline": "money-lexicon and choghadiya-wheel",
+        "summary": "Single-file study page and live choghadiya wheel.",
+        "url": "daily/2026-11-24.html"
+      },
+      {
+        "headline": "Mushroom studies",
+        "summary": "Kurukshetra and Solan field studies.",
+        "url": "daily/2026-11-24.html"
+      }
+    ]
+  },
+  {
     "date": "2026-11-23",
     "type": "daily",
     "title": "VA Graphics Daily Dispatch — Monday, November 23, 2026",
